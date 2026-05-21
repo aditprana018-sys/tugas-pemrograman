@@ -1,0 +1,49 @@
+body {
+margin: 20px;
+}
+.banner {
+    background-color: magenta;
+    color: white;
+    text-align: center;
+    border-radius: 14px;
+    padding: 20px;
+    width: 50%;
+}
+
+.Personal-Information {
+    background-color: purple;
+    border-radius: 14px;
+    padding: 20px;
+    margin-top: 14px;
+    width: 50%;
+    color: white;
+}
+
+
+.education {
+    margin-right: 15px;
+    background-color: purple;
+    padding: 20px;
+    border-radius: 14px;
+    width: 50%;
+    color: white;
+    margin-top: 20px;
+}
+
+.card-hobby {
+    background-color: purple;
+    padding: 20px;
+    width: 50%;
+    color: white;
+    margin-top: 20px;
+    border-radius: 14px;
+}
+
+.card-skill {
+    background-color: purple;
+    padding: 20px;
+    width: 50%;
+    color: white;
+    margin-top: 20px;
+    border-radius: 14px;
+}
